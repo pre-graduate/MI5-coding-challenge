@@ -62,7 +62,6 @@ string decipher(FIBITMAP* bitmap)
         }
     }
 
-    FreeImage_Unload(bitmap);
     return text.str();
 }
 

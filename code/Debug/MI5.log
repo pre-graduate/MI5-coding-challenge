@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\b0023\desktop\work\challenge\ss-coding-challenge\main.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\b0023\desktop\work\challenge\ss-coding-challenge\main.cpp(37): warning C4018: '<': signed/unsigned mismatch
+  MI5.vcxproj -> C:\Users\B0023\Desktop\Work\challenge\ss-coding-challenge\Debug\MI5.exe
+  MI5.vcxproj -> C:\Users\B0023\Desktop\Work\challenge\ss-coding-challenge\Debug\MI5.pdb (Full PDB)
