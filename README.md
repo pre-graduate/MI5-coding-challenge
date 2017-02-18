@@ -1,5 +1,5 @@
 
-<img align='right' height='35' width='225' src="code/logo.png" />
+<img align='right' src="code/logo.png" />
 
 # Security Service Coding Challenge
 
