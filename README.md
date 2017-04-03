@@ -3,11 +3,9 @@
 
 # MI5 Coding Challenge
 
-I was looking at various coding challenges online and found this which interested me. The repository just houses the code that outputs the hidden message. Nothing too complicated but I am quite happy I solved the puzzle and hey it was fun!
+I was looking at various coding challenges online and found this which interested me. The repository just houses the code that outputs the hidden message. Nothing too complicated but I am quite happy I solved the puzzle and hey it was fun! This program was written in C++ and uses FreeImage an image loading library. It was all that was needed as all the challenged needed was the ability to parse an image file.
 
-## Technology Used
-
-This program was written in C++ and uses FreeImage an image loading library. It was all that was needed as all the challenged needed was the ability to parse an image file.
+**Warning do not read on if you want the solution spoiled!**
 
 ## Solution 
 
