@@ -1,7 +1,8 @@
 
 <img align='right' src="logo.png" />
 
-# MI5 Coding Challenge
+# MI5 Challenge &nbsp; [[![Build status](https://ci.appveyor.com/api/projects/status/vrs0a4m5a50cj7nr?svg=true)](https://ci.appveyor.com/project/william-taylor/mi5-coding-challenge) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
 
 I was looking at various coding challenges online and found this which interested me. The repository just houses the code that outputs the hidden message. Nothing too complicated but I am quite happy I solved the puzzle and hey it was fun! This program was written in C++ and uses FreeImage an image loading library. It was all that was needed as all the challenged needed was the ability to parse an image file.
 
