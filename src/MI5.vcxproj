@@ -99,7 +99,7 @@
       <AdditionalDependencies>../lib/FreeImage.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
     <PostBuildEvent>
-      <Command>xcopy /f /y ..\lib\FreeImage.dll $(OutDir)FreeImage.dll</Command>
+      <Command>xcopy /y $(SolutionDir)lib\FreeImage.dll $(OutDir)</Command>
     </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
@@ -135,7 +135,7 @@
       <AdditionalDependencies>../lib/FreeImage.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
     <PostBuildEvent>
-      <Command>xcopy /f /y ..\lib\FreeImage.dll $(OutDir)FreeImage.dll</Command>
+      <Command>xcopy /y $(SolutionDir)lib\FreeImage.dll $(OutDir)</Command>
     </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
