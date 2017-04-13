@@ -12,6 +12,6 @@ I was looking at various coding challenges online and found this which intereste
 
 <img align='right' src='img/puzzle.png'/>
 
-Given this image the challenge tells you to find a hidden message. As its size isn’t even and because each row has long sections of the same colour we can assume the message isn’t hidden with each colour representing a one or a zero. So I just counted how many times the next pixel was the same colour in the image. If you treat each number as a ASCII character and print all the values, you realise it’s a list of hexadecimal values separated by a hyphen. Once these hyphens are stripped out and each hexadecimal value is properly converted to a character you get the hidden message. Which is the following.
+Given this image the challenge tells you to find a hidden message. As its size isn’t even and because each row has long sections of the same colour we can assume the message isn’t hidden with each colour representing a one or a zero. So, I just counted how many times the next pixel was the same colour in the image. If you treat each number as a ASCII character and print all the values, you realise it’s a list of hexadecimal values separated by a hyphen. Once these hyphens are stripped out and each hexadecimal value is properly converted to a character you get the hidden message. Which is the following.
 
 <img src='img/output.png'/>
